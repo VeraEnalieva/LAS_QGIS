@@ -7,7 +7,6 @@ import processing
 
 os.chdir(r'D:\Also\Genplan\Vector')
 
-#relief_raster_path = r'D:\Also\Genplan\_rastrs\!_Type1A_2023.tif'
 relief_raster_path = r'D:\Also\Genplan\_rastrs\!_Type1A_2023.tif'
 crs = 'USER:100020'
 

@@ -27,7 +27,7 @@ las_folder = r'D:\TOOLS\FindMaxPoint\data_las'
 # USER_SETTING 5 -- номенклатура планшетов
 planshet_nom = r'D:\wrk_TORIS\package_160\src\all_twn\PL2000_polygon_fxd.gpkg'
 
-# Soft Settings
+# USER_SETTING 6 Soft Settings
 SHP_TOOL = r'C:\LAStools\bin\las2shp.exe'
 
 user_crs = 'USER:100020'
